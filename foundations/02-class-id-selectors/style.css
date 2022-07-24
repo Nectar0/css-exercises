@@ -1,0 +1,25 @@
+.number-one {
+  background-color: pink;
+  font-size: 20px;
+}
+
+#number-two {
+  color: blue;
+  font-size: 40px;
+}
+
+.number-three {
+  background-color: pink;
+  font-size: 30px;
+}
+
+#number-four {
+  font-weight: bold;
+  background-color: lightgreen;
+  font-size: 25px;
+}
+
+.number-five {
+  background-color: pink;
+  font-size: 18px;
+}
